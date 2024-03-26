@@ -1,1 +1,1 @@
-# now starting of my react js 
+# now starting of my react journey
